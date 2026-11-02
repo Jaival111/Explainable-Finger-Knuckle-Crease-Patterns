@@ -2,7 +2,7 @@
 
 PyTorch implementation of *Zhou, Dong & Kumar, "Towards Explainable and Unprecedented
 Accuracy in Matching Challenging Finger Crease Patterns", CVPR 2025*, adapted to the
-`Knuckle_Images/` dataset (`<subject>_<sample>.bmp`, 5 samples per subject).
+`Knuckle_Images/` [dataset](https://www.kaggle.com/datasets/s3programmerlead/palmprint-and-finger-knuckle-pattern-dataset) (`<subject>_<sample>.bmp`, 5 samples per subject).
 
 ## Mapping paper → code
 
